@@ -1,2 +1,0 @@
-Primeiro arquivo
-Edição do arquivo para testar o comando de puxar do git
